@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/solangegueiros/truffle-plant-box.git"
   },
-  "keywords": ["blockchain", "smart contracts", "ethereum", "truffle", "truffle box", "rsk", "rsksmart"],
+  "keywords": ["blockchain", "smart contracts", "ethereum", "truffle", "truffle box"],
   "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
   "license": "MIT",
   "bugs": {

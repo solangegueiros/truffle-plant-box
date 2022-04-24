@@ -1,4 +1,4 @@
-# RSK Truffle Plant Box
+# Truffle Plant Box
 
 Truffle box is configured to create a complete dApp using Truffle framework, including a user interface to interact with the smart contract.
 
@@ -71,7 +71,7 @@ truffle develop
 You will now be in the truffle develop console with seeded accounts and their associated private keys listed.
 
 ```txt
-C:\RSK\rsk-plant>truffle develop
+C:\plantshop>truffle develop
 
 Truffle Develop started at http://127.0.0.1:8545/
 
@@ -159,8 +159,6 @@ In the Truffle console, enter this command to exit the terminal:
 
 Included with the plant-shop Truffle Box was the code for the app's front-end. That code exists within the `src` directory.
 
-> Make sure you have selected the RSK testnet in the wallet.
-
 ### Running the dev server
 
 Now we're ready to use our dapp!
@@ -175,7 +173,7 @@ The dev server will launch and automatically open a new browser tab containing y
 
 It is running at [http://localhost:3000](http://localhost:3000)
 
-![rsk plant garden](/images/image-11.png)
+![plant garden](/images/image-11.png)
 
 ### Buying plants
 
