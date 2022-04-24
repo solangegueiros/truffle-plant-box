@@ -42,7 +42,7 @@ cd plantshop
 This also takes care of installing the necessary dependencies and it can take some time.
 
 ```shell
-truffle unbox solangegueiros/truffleplant-box
+truffle unbox solangegueiros/truffle-plant-box
 ```
 
 
